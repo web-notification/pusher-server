@@ -25,6 +25,7 @@
     , "underscore"         : "1.x"
     , "metalogger"         : "*"
     , "backbone"           : "*"
+    , "socket.io"          : "*"
   }
   , "devDependencies" : {
       "assert" : "*"
