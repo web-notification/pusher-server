@@ -24,6 +24,7 @@
     , "less-middleware"    : "*"
     , "underscore"         : "1.x"
     , "metalogger"         : "*"
+    , "backbone"           : "*"
   }
   , "devDependencies" : {
       "assert" : "*"

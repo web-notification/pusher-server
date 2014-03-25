@@ -1,0 +1,4 @@
+{
+    "name" : "Push Receive Module",
+    "main" : "push_receive.js"
+}
