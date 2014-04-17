@@ -26,6 +26,7 @@
     , "metalogger"         : "*"
     , "backbone"           : "*"
     , "socket.io"          : "*"
+    , "socket-manager"     : "*"
   }
   , "devDependencies" : {
       "assert" : "*"
